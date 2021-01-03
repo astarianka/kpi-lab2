@@ -1,0 +1,12 @@
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab2/lab2_1/lab2_1/bin/Debug/lab2_1.dll
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab2/lab2_1/lab2_1/bin/Debug/lab2_1.pdb
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab2/lab2_1/lab2_1/bin/Debug/IIG.PasswordHashingUtils.dll
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab2/lab2_1/lab2_1/bin/Debug/nunit.framework.dll
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab2/lab2_1/lab2_1/bin/Debug/nunit.framework.xml
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab2/lab2_1/lab2_1/bin/Debug/IIG.PasswordHashingUtils.pdb
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab2/lab2_1/lab2_1/bin/Debug/IIG.PasswordHashingUtils.xml
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab2/lab2_1/lab2_1/obj/Debug/lab2_1.csprojAssemblyReference.cache
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab2/lab2_1/lab2_1/obj/Debug/lab2_1.csproj.CoreCompileInputs.cache
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab2/lab2_1/lab2_1/obj/Debug/lab2_1.csproj.CopyComplete
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab2/lab2_1/lab2_1/obj/Debug/lab2_1.dll
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab2/lab2_1/lab2_1/obj/Debug/lab2_1.pdb
